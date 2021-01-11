@@ -1,0 +1,12 @@
+{
+  "name": "CloneApp",
+  "displayName": "CloneApp",
+  "expo": {
+    "name": "CloneApp",
+    "slug": "CloneApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
