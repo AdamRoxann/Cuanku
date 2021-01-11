@@ -1,12 +1,27 @@
 {
-  "name": "CloneApp",
-  "displayName": "CloneApp",
+  "name": "CUANKU",
+  "displayName": "CUANKU",
   "expo": {
-    "name": "CloneApp",
-    "slug": "CloneApp",
+    "name": "CUANKU",
+    "slug": "CUANKU",
+    "icon": "./assets/cuanku_logo_fix.png",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "splash": {
+    "image": "./assets/cuanku.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#fffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/cuanku_logo_fix.png",
+        "backgroundColor": "#fffff"
+      }
+    },
+    "web": {
+      "facicon": "./assets/cuanku_log_fix.png"
+    }
   }
 }
